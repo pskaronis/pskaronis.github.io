@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://pskaronis.github.io
+title: Peter Skaronis
+tagline: A log of everyday life
+description: Hacking every day!
+paginate: 5
